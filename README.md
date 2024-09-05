@@ -10,8 +10,10 @@ This project was developed as part of the **"Advanced Mobile Development for iOS
 
 ### Key Features:
 - 📝 **Create and Manage Shopping Lists**
+- ⏳ **Track Days Left for Each List**: Display the number of days remaining to complete each list.
 - 🖼️ **Attach Images to List Items**
 - ☁️ **Sync Lists in Real-Time with Firebase**
+- 🛠️ **Firebase CRUD Operations**: Add, delete, update, and edit list elements with Firebase integration.
 - 🎨 **Customizable UI with iPhone-Specific Design Considerations**
 - 📱 **Sleek and Modern User Interface, Optimized for iPhone**
 
