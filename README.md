@@ -2,6 +2,9 @@
 
 This project was developed as part of the **"Advanced Mobile Development for iOS"** course. The project was created by **Nofar Shlosberg** and **Nitzan Levi**. We chose to develop a shopping list app named **LISTIFY**, which helps users easily manage and synchronize their shopping lists across devices.
 
+## App logo:
+![logo](https://github.com/user-attachments/assets/8980d960-b176-4b8b-a17f-028166087ec8)
+
 ---
 
 ## ✨ Project Overview
