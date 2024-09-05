@@ -12,8 +12,8 @@ This project was developed as part of the **"Advanced Mobile Development for iOS
 - 📝 **Create and Manage Shopping Lists**
 - 🖼️ **Attach Images to List Items**
 - ☁️ **Sync Lists in Real-Time with Firebase**
-- 📱 **Sleek and Modern User Interface**
-- 🎨 **Customization Options**
+- 🎨 **Customizable UI with iPhone-Specific Design Considerations**
+- 📱 **Sleek and Modern User Interface, Optimized for iPhone**
 
 ---
 
