@@ -32,3 +32,10 @@ This project was developed as part of the **"Advanced Mobile Development for iOS
 
 We developed **LISTIFY** to provide an effective solution for managing shopping needs in a simple, modern way. It’s designed to offer seamless cross-device synchronization, ensuring that users always have their lists accessible, regardless of where they are.
 
+### Video of Listify:
+
+
+https://github.com/user-attachments/assets/40a79425-5496-4df4-9354-7c91b1b8e8c4
+
+
+
